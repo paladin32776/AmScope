@@ -13,3 +13,5 @@ docu/LICENSE
 docu/README.md
 docu/requirements.txt
 foo.jpg
+__pycache__/camera.cpython-37.pyc
+__pycache__/toupcam.cpython-37.pyc
